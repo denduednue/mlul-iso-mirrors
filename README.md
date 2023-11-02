@@ -1,6 +1,7 @@
 Mac Linux USB Loader ISO Mirror Repository
 =========
 
+BEFORE YOU READ Thins is not mine it is forked.
 Hey everyone. This repository is kind of special. As I [mentioned in one of my blog posts](http://sevenbits-tech-blog.blogspot.com/2014/05/mac-linux-usb-loader-declassified.html), I want to expand the distribution downloader in Mac Linux USB Loader so that it downloads from a variety of mirror sites instead of just one hard-coded URL. This is advantageous for a number of reasons:
 
   1. The process is more convenient and fast for end users, as you can download from the server closest to you.
